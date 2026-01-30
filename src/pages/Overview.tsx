@@ -5,6 +5,10 @@ import GuidedReading from "../components/GuidedReading";
 import { articleMeta, guidedReadingSteps } from "../content/belk";
 
 const keyMoves = [
+  "Explains the idea of the extended self and why possessions feel personal.",
+  "Uses research to categorize body parts, objects, places, and people as identity links.",
+  "Shows how specific examples (homes, cars, heirlooms, pets) carry symbolic meaning.",
+  "Weighs benefits of attachment against risks like possessiveness or lost growth."
   "Introduces how possessions can become part of identity.",
   "Explores cultural and social forces that shape meaning.",
   "Analyzes what happens when possessions are lost or replaced.",
