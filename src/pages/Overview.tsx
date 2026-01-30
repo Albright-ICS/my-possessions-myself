@@ -9,6 +9,10 @@ const keyMoves = [
   "Uses research to categorize body parts, objects, places, and people as identity links.",
   "Shows how specific examples (homes, cars, heirlooms, pets) carry symbolic meaning.",
   "Weighs benefits of attachment against risks like possessiveness or lost growth."
+  "Introduces how possessions can become part of identity.",
+  "Explores cultural and social forces that shape meaning.",
+  "Analyzes what happens when possessions are lost or replaced.",
+  "Connects the ideas to rituals, collecting, and change over time."
 ];
 
 export default function Overview() {
@@ -37,12 +41,8 @@ export default function Overview() {
           </div>
           <Callout title="Argument flow snapshot">
             <p>
-              Belk begins by arguing that possessions are part of identity, then
-              supports this with research on how people rank body parts, objects,
-              places, and relationships as more or less central to the self. He
-              extends the idea with examples such as homes, cars, heirlooms, and
-              pets, and ends by weighing the benefits of attachment against the
-              risks of over-identifying with possessions.
+              TODO_FROM_PDF: Summarize how the article moves from claim to evidence
+              to implication in 3–4 sentences.
             </p>
           </Callout>
         </Card>

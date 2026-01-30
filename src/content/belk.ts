@@ -45,10 +45,10 @@ export const articleMeta: ArticleMeta = {
   author: "Russell W. Belk",
   publicationYear: "1988",
   summary:
-    "Belk explains how possessions are woven into our identities, not just as status symbols but as meaningful objects, places, relationships, and memories. He uses research findings and examples to show that belongings can strengthen self-understanding and community ties, while also creating risks when attachment becomes excessive.",
+    "TODO_FROM_PDF: Replace with a 2–3 sentence summary of the article's main argument.",
   audience: "Grade 9–10 students exploring identity, consumer culture, and sociology.",
   bigIdea:
-    "People shape their identities through what they possess, and those attachments can both support and complicate how we see ourselves.",
+    "TODO_FROM_PDF: Replace with the article's core idea in one clear sentence.",
   notice:
     "This site summarizes and teaches from the article; it does not reproduce the full text."
 };
@@ -65,6 +65,13 @@ export const keyConcepts: KeyConcept[] = [
     ],
     whyItMatters:
       "It helps explain why losing or gaining possessions can feel like a change in identity."
+    definition: "TODO_FROM_PDF: Define the concept in student-friendly language.",
+    examples: [
+      "TODO_FROM_PDF: Example of a personal object as part of identity.",
+      "TODO_FROM_PDF: Example of how spaces/places feel like part of self."
+    ],
+    whyItMatters:
+      "TODO_FROM_PDF: Explain how this concept helps explain identity and consumption."
   },
   {
     id: "possession-meaning",
@@ -89,6 +96,13 @@ export const keyConcepts: KeyConcept[] = [
     ],
     whyItMatters:
       "These categories help organize what counts as identity and why it varies by person."
+    definition: "TODO_FROM_PDF: Define how objects gain symbolic meaning.",
+    examples: [
+      "TODO_FROM_PDF: Example of a gift with emotional value.",
+      "TODO_FROM_PDF: Example of a status symbol."
+    ],
+    whyItMatters:
+      "TODO_FROM_PDF: Connect meaning-making to self-concept and social signals."
   },
   {
     id: "loss-and-self",
@@ -113,6 +127,24 @@ export const keyConcepts: KeyConcept[] = [
     ],
     whyItMatters:
       "Students can evaluate when possessions help identity and when they limit it."
+    definition: "TODO_FROM_PDF: Define how loss of possessions affects identity.",
+    examples: [
+      "TODO_FROM_PDF: Example of loss or theft and its emotional impact.",
+      "TODO_FROM_PDF: Example of repair or replacement."
+    ],
+    whyItMatters:
+      "TODO_FROM_PDF: Explain why loss reveals attachment and identity links."
+  },
+  {
+    id: "collecting",
+    name: "Collecting and Control",
+    definition: "TODO_FROM_PDF: Define how collecting relates to self-expression.",
+    examples: [
+      "TODO_FROM_PDF: Example of a curated collection.",
+      "TODO_FROM_PDF: Example of controlling or organizing possessions."
+    ],
+    whyItMatters:
+      "TODO_FROM_PDF: Explain the role of collecting in shaping identity."
   }
 ];
 
@@ -146,6 +178,30 @@ export const argumentMap: ArgumentMapEntry[] = [
     ],
     reasoning:
       "The article argues that identity through possessions can be healthy, but it becomes harmful if it replaces relationships or growth."
+    claim: "TODO_FROM_PDF: Main claim about possessions and identity.",
+    evidence: [
+      "TODO_FROM_PDF: Evidence from theory or research.",
+      "TODO_FROM_PDF: Example or case from the article."
+    ],
+    reasoning: "TODO_FROM_PDF: Explain how the evidence supports the claim."
+  },
+  {
+    id: "claim-2",
+    claim: "TODO_FROM_PDF: Claim about cultural or social dimensions.",
+    evidence: [
+      "TODO_FROM_PDF: Evidence about social roles or groups.",
+      "TODO_FROM_PDF: Evidence about rituals or habits."
+    ],
+    reasoning: "TODO_FROM_PDF: Reasoning that connects the evidence to the claim."
+  },
+  {
+    id: "claim-3",
+    claim: "TODO_FROM_PDF: Claim about loss, replacement, or change over time.",
+    evidence: [
+      "TODO_FROM_PDF: Evidence about transitions or life stages.",
+      "TODO_FROM_PDF: Evidence about emotional responses."
+    ],
+    reasoning: "TODO_FROM_PDF: Explain why this strengthens the overall argument."
   }
 ];
 
@@ -220,27 +276,25 @@ export const discussionQuestions: DiscussionQuestion[] = [
 export const exitTickets: ExitTicket[] = [
   {
     id: "exit-1",
-    prompt: "One claim from the article I can explain is..."
+    prompt: "TODO_FROM_PDF: One claim I can explain clearly is..."
   },
   {
     id: "exit-2",
-    prompt: "A concept that changed how I think about identity is..."
+    prompt: "TODO_FROM_PDF: A concept I want to investigate further is..."
   },
   {
     id: "exit-3",
-    prompt: "One example of the extended self I see in daily life is..."
+    prompt: "TODO_FROM_PDF: One real-life example of the extended self is..."
   }
 ];
 
 export const guidedReadingSteps = {
-  mainIdea:
-    "Belk argues that possessions are part of our identity, shaping how we see ourselves and how others see us.",
-  conceptFocus:
-    "Focus on the extended self: how objects, places, and people can feel like \"me.\"",
+  mainIdea: "TODO_FROM_PDF: 1–2 sentence main idea from the article.",
+  conceptFocus: "TODO_FROM_PDF: Focus concept for guided reading (ex: extended self).",
   discussionQuestion:
-    "Where do you see the extended self in the article’s examples of homes, cars, or heirlooms?",
+    "TODO_FROM_PDF: Discussion question that links to the concept.",
   quickWrite:
-    "Describe one possession or place that feels like part of your identity and explain why."
+    "TODO_FROM_PDF: Short writing prompt connecting personal experience to the article."
 };
 
 export const norms = [
